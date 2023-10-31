@@ -8,7 +8,7 @@ I'm a web developer and a data analyst with a passion for education, sustainable
 
 ## Technologies & Tools
 
-- **Languages**: Python, HTML, CSS, JavaScript.
+- **Languages**: Python, HTML, CSS, JavaScript, R+.
 - **Frameworks**: Django.
 - **Databases**: PostgreSQL, MYSQL.
 - **Tools**: Docker, Git.
