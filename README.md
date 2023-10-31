@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @sirojiddin4
-- 👀 I’m interested in Reading, Coding, Languages, Science, Teaching and Learning, Psychology, Philosophy, Business and many other endless list of areas.  
-- 🌱 I’m currently learning Coding.
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me: boboqulovsirojiddin4@gmail.com
+# Hello, I'm Sirojiddin! 👋
 
-<!---
-sirojiddin4/sirojiddin4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+## About Me
+
+I'm a web-developer and a data analyst with a passion for education, sustainable development and machine learning. I love to create and contribute to open source projects that solve practical challenges. I'm constantly learning and love to help others on their coding journey!
+
+## Technologies & Tools
+
+- **Languages**: Python, HTML, CSS, JavaScript,.
+- **Frameworks**: Django.
+- **Databases**: PostgreSQL, MYSQL.
+- **Tools**: Docker, Git.
+- **Interests**: Machine Learning, Web Development.
+
+Feel free to explore and fork the repositories!
+
+## Let's Connect!
+
+- **LinkedIn**: https://www.linkedin.com/in/sirojiddinbobokulov/
+- **Instagram**: instagram.com/sirojiddinbobokulov
+
+
